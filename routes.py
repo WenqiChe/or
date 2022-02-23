@@ -1,4 +1,4 @@
-value = [
+values = [
          ("PARIS","PAMPLONA", 739),
          ("PARIS","MADRID", 1053),
          ("PARIS","HAVANA", 7547),
